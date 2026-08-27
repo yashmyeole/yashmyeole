@@ -24,7 +24,6 @@ I'm a Software Engineer and MS Computer Science student at **University of Illin
 
 - 🔭 Currently working on: AI-powered automation pipelines and RAG systems
 - 🌱 Learning: Advanced distributed systems, agent frameworks, and cloud-native architectures
-- ⚡ Fun fact: I built a 3D adaptive assessment platform with Three.js before ever touching 3D graphics
 
 ---
 
